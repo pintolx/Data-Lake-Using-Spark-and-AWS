@@ -17,11 +17,16 @@ Select count(distinct artist_id) as count_of_artists
 from artists_table
 ```
 ## Data structure of all tables have been uploaded as images.
-- songplays table ![alt text](https://github.com/pintolx/Data-Lake-Using-Spark-and-AWS/blob/master/Song_play_table.PNG)
-- users: ![alt text](https://github.com/pintolx/Data-Lake-Using-Spark-and-AWS/blob/master/users_table.PNG)
-- time: ![alt text](https://github.com/pintolx/Data-Lake-Using-Spark-and-AWS/blob/master/time_table.PNG)
-- artists: ![alt text](https://github.com/pintolx/Data-Lake-Using-Spark-and-AWS/blob/master/Artists_table_image.PNG)
-- songs: ![alt text](https://github.com/pintolx/Data-Lake-Using-Spark-and-AWS/blob/master/songs_table_image1.PNG)
+# songplays table 
+![alt text](https://github.com/pintolx/Data-Lake-Using-Spark-and-AWS/blob/master/Song_play_table.PNG)
+# users: 
+![alt text](https://github.com/pintolx/Data-Lake-Using-Spark-and-AWS/blob/master/users_table.PNG)
+# time: 
+![alt text](https://github.com/pintolx/Data-Lake-Using-Spark-and-AWS/blob/master/time_table.PNG)
+# artists: 
+![alt text](https://github.com/pintolx/Data-Lake-Using-Spark-and-AWS/blob/master/Artists_table_image.PNG)
+# songs: 
+![alt text](https://github.com/pintolx/Data-Lake-Using-Spark-and-AWS/blob/master/songs_table_image1.PNG)
 
 
 
